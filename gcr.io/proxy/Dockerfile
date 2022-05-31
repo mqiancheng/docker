@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
+FROM gcr.io/cadvisor/cadvisor:v0.39.0
